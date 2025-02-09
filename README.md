@@ -4,7 +4,7 @@
 This project was created to demo using multiple microservices to develop a small web application that can do basic authentication, authorization, and create a basic database.
 
 1️⃣ Understanding the Testing Process in Microservices
-Testing in microservices is different from monolithic applications because:
+Testing in microservices is different from monolithic applications because: 
 
 Each service is independent and needs to be tested separately.
 There are multiple layers of testing, including unit tests, integration tests, contract tests, and end-to-end tests.
